@@ -1,0 +1,14 @@
+.item {
+  border-radius: 0.125rem;
+  overflow: hidden;
+  position: relative;
+  /* TODO: use tokens */
+  box-shadow: 2px 2px 1px 0 #d1d3d2;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1;
+  overflow: hidden;
+}

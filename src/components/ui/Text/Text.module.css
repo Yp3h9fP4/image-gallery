@@ -1,0 +1,77 @@
+.size-xs {
+  font-size: var(--font-size-xs);
+  line-height: var(--line-height-small);
+}
+.size-sm {
+  font-size: var(--font-size-sm);
+  line-height: var(--line-height-medium);
+}
+.size-base {
+  font-size: var(--font-size-base);
+  line-height: var(--line-height-medium);
+}
+.size-md {
+  font-size: var(--font-size-md);
+  line-height: var(--line-height-large);
+}
+.size-lg {
+  font-size: var(--font-size-lg);
+  line-height: var(--line-height-large);
+}
+.size-xl {
+  font-size: var(--font-size-xl);
+  line-height: var(--line-height-large);
+}
+
+.weight-normal {
+  font-weight: var(--font-weight-normal);
+}
+.weight-medium {
+  font-weight: var(--font-weight-medium);
+}
+.weight-semibold {
+  font-weight: var(--font-weight-semibold);
+}
+.weight-bold {
+  font-weight: var(--font-weight-bold);
+}
+
+.align-left {
+  text-align: left;
+}
+.align-center {
+  text-align: center;
+}
+.align-right {
+  text-align: right;
+}
+
+.style-normal {
+  font-style: normal;
+}
+.style-italic {
+  font-style: italic;
+}
+.style-oblique {
+  font-style: oblique;
+}
+
+/* Colors */
+.default {
+  color: var(--color-primary);
+}
+
+.truncated {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+  white-space: nowrap;
+}
+
+.fontStyle-normal {
+  font-style: normal;
+}
+
+.fontStyle-italic {
+  font-style: italic;
+}
