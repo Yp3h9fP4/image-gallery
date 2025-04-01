@@ -1,5 +1,3 @@
-### Take-home technical assignment for prospective Web Engineers at Vinted
-
 ## Local development and preview
 
 1. `npm install`
